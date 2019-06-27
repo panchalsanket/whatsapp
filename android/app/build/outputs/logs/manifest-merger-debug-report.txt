@@ -1,0 +1,250 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from [:react-native-image-picker] /home/aspire41/Desktop/Project/RealApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-gesture-handler] /home/aspire41/Desktop/Project/RealApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /home/aspire41/Desktop/Project/RealApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.5] /home/aspire41/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/f1971d013842714af6eb0ceae82d1f2f/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8258614d5deab491574c1ad8ad59fd00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d1036bc66368ac07d5b8abbff3748bd1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/eb8ba0c5e7a715055ddfd5f93ac5c79b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b1a75c9b79a74fae1fa2be46aeacd33d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d67e8c83dcbc7e4e8afecfbbd46c97e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f26e489195fa2a92c50f3e21ce457d04/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/4615295c968c8ed7cdb5b1218ded46d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/70f6b79a9447a6f5274c783e4a0fd99a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/db3906da836339ef35487093b008d8d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/79d411db046708885b4cc785f1491c9a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/51d65b6e9f2e30f0b90ad84aee0b8293/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bbdc86057cab637923c777398394c35b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c58fe2b70b25808f26970bf39401a626/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/aaa7cbf11919998570ddcbf2f613f51b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/84cabdb67098c96f22eacf0b6670d8a9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3897a6b2888a4347c990e9676736add9/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/308ea943b2600e1d27501293df32c605/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/aspire41/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5529c4b07d87a4e726bece69d6773f74/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9f5dacff8180cb0af2787bb5c7658d7b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/f58b8946a83187ada64704988999dbf4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/cb0b6c06496a8367bd4875901f9da61d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/aspire41/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2540a2e3632ab97a2f962fc600ae089e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/aspire41/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b9cc635403d4294bfc9a441e03b2682d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/aspire41/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/54fc01a64ec3d4f837d66a93814a8454/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/aspire41/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d4aa6da78273be10b7f0747c459b9ca6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9261a5fce67699c09148a780ff07d840/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/2139f9458dbbeaf6b450e8e36365f7b5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/76cb215a7f646e0dde8139b8ee709b56/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/a9ede16d189d6884e753b5dbc969b19b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/70a3917669299bb6b8dbac06ecaebccc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/53a9b1df18bae23945420f06ef50c2b9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/cec3ddfb1e90066c5d0c40d13f51f6f4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/86cb5de88ca252b5e8095a345a2bfb0d/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/aspire41/Desktop/Project/RealApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/aspire41/Desktop/Project/RealApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/aspire41/Desktop/Project/RealApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /home/aspire41/Desktop/Project/RealApp/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /home/aspire41/Desktop/Project/RealApp/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /home/aspire41/Desktop/Project/RealApp/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:9:5-27:19
+MERGED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:9:5-27:19
+MERGED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:9:5-27:19
+MERGED from [:react-native-image-picker] /home/aspire41/Desktop/Project/RealApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /home/aspire41/Desktop/Project/RealApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.59.5] /home/aspire41/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/f1971d013842714af6eb0ceae82d1f2f/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.5] /home/aspire41/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/f1971d013842714af6eb0ceae82d1f2f/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/84cabdb67098c96f22eacf0b6670d8a9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/84cabdb67098c96f22eacf0b6670d8a9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3897a6b2888a4347c990e9676736add9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3897a6b2888a4347c990e9676736add9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/cec3ddfb1e90066c5d0c40d13f51f6f4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/cec3ddfb1e90066c5d0c40d13f51f6f4/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/84cabdb67098c96f22eacf0b6670d8a9/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:11:7-39
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:11:7-39
+	tools:ignore
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:13:7-52
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:13:7-52
+	tools:targetApi
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:12:7-41
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:12:7-41
+	android:allowBackup
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:14:7-34
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:14:7-34
+	android:theme
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:15:7-38
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:15:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:10:7-38
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:10:7-38
+activity#com.components.MainActivity
+ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:16:7-25:18
+	android:label
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:18:9-41
+	android:windowSoftInputMode
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:20:9-51
+	android:configChanges
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:19:9-79
+	android:name
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:17:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:23:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:26:7-84
+	android:name
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml:26:17-81
+uses-sdk
+INJECTED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-image-picker] /home/aspire41/Desktop/Project/RealApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /home/aspire41/Desktop/Project/RealApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/aspire41/Desktop/Project/RealApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/aspire41/Desktop/Project/RealApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/aspire41/Desktop/Project/RealApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/aspire41/Desktop/Project/RealApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.5] /home/aspire41/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/f1971d013842714af6eb0ceae82d1f2f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.5] /home/aspire41/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/f1971d013842714af6eb0ceae82d1f2f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8258614d5deab491574c1ad8ad59fd00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8258614d5deab491574c1ad8ad59fd00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d1036bc66368ac07d5b8abbff3748bd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d1036bc66368ac07d5b8abbff3748bd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/eb8ba0c5e7a715055ddfd5f93ac5c79b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/eb8ba0c5e7a715055ddfd5f93ac5c79b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b1a75c9b79a74fae1fa2be46aeacd33d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b1a75c9b79a74fae1fa2be46aeacd33d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d67e8c83dcbc7e4e8afecfbbd46c97e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d67e8c83dcbc7e4e8afecfbbd46c97e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f26e489195fa2a92c50f3e21ce457d04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f26e489195fa2a92c50f3e21ce457d04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/4615295c968c8ed7cdb5b1218ded46d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/4615295c968c8ed7cdb5b1218ded46d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/70f6b79a9447a6f5274c783e4a0fd99a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/70f6b79a9447a6f5274c783e4a0fd99a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/db3906da836339ef35487093b008d8d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/db3906da836339ef35487093b008d8d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/79d411db046708885b4cc785f1491c9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/79d411db046708885b4cc785f1491c9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/51d65b6e9f2e30f0b90ad84aee0b8293/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/51d65b6e9f2e30f0b90ad84aee0b8293/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bbdc86057cab637923c777398394c35b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bbdc86057cab637923c777398394c35b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c58fe2b70b25808f26970bf39401a626/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c58fe2b70b25808f26970bf39401a626/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/aaa7cbf11919998570ddcbf2f613f51b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/aaa7cbf11919998570ddcbf2f613f51b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/84cabdb67098c96f22eacf0b6670d8a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/84cabdb67098c96f22eacf0b6670d8a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3897a6b2888a4347c990e9676736add9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3897a6b2888a4347c990e9676736add9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/308ea943b2600e1d27501293df32c605/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/308ea943b2600e1d27501293df32c605/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/aspire41/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5529c4b07d87a4e726bece69d6773f74/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/aspire41/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5529c4b07d87a4e726bece69d6773f74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9f5dacff8180cb0af2787bb5c7658d7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9f5dacff8180cb0af2787bb5c7658d7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/f58b8946a83187ada64704988999dbf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/f58b8946a83187ada64704988999dbf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/cb0b6c06496a8367bd4875901f9da61d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/cb0b6c06496a8367bd4875901f9da61d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/aspire41/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2540a2e3632ab97a2f962fc600ae089e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/aspire41/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2540a2e3632ab97a2f962fc600ae089e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/aspire41/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b9cc635403d4294bfc9a441e03b2682d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/aspire41/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b9cc635403d4294bfc9a441e03b2682d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/aspire41/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/54fc01a64ec3d4f837d66a93814a8454/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/aspire41/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/54fc01a64ec3d4f837d66a93814a8454/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/aspire41/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d4aa6da78273be10b7f0747c459b9ca6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/aspire41/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d4aa6da78273be10b7f0747c459b9ca6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9261a5fce67699c09148a780ff07d840/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9261a5fce67699c09148a780ff07d840/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/2139f9458dbbeaf6b450e8e36365f7b5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/2139f9458dbbeaf6b450e8e36365f7b5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/76cb215a7f646e0dde8139b8ee709b56/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/76cb215a7f646e0dde8139b8ee709b56/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/a9ede16d189d6884e753b5dbc969b19b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/a9ede16d189d6884e753b5dbc969b19b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/70a3917669299bb6b8dbac06ecaebccc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/70a3917669299bb6b8dbac06ecaebccc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/53a9b1df18bae23945420f06ef50c2b9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/53a9b1df18bae23945420f06ef50c2b9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/cec3ddfb1e90066c5d0c40d13f51f6f4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/cec3ddfb1e90066c5d0c40d13f51f6f4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/86cb5de88ca252b5e8095a345a2bfb0d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/aspire41/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/86cb5de88ca252b5e8095a345a2bfb0d/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/aspire41/Desktop/Project/RealApp/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/aspire41/Desktop/Project/RealApp/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aspire41/Desktop/Project/RealApp/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/aspire41/Desktop/Project/RealApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aspire41/Desktop/Project/RealApp/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/aspire41/Desktop/Project/RealApp/android/app/src/debug/AndroidManifest.xml:5:22-75
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /home/aspire41/Desktop/Project/RealApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /home/aspire41/Desktop/Project/RealApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /home/aspire41/Desktop/Project/RealApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /home/aspire41/Desktop/Project/RealApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /home/aspire41/Desktop/Project/RealApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /home/aspire41/Desktop/Project/RealApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-picker] /home/aspire41/Desktop/Project/RealApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /home/aspire41/Desktop/Project/RealApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67

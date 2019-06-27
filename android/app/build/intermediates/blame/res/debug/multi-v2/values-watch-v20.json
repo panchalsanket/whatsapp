@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/aspire41/Desktop/Project/RealApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/aspire41/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8258614d5deab491574c1ad8ad59fd00/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
